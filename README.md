@@ -1,17 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<div align="center">
-  <img src="https://github.com/p-raj2702.png" width="140" style="border-radius: 50%;" />
-  
-  <h1>Piyush Raj</h1>
-  <p><strong>B.Tech CSE Student | Web Dev & AI/ML Enthusiast | Building for the Future of Tech</strong></p>
+<p align="center">
+  <a href="https://github.com/p-raj2702">
+    <img width="100%" src="https://raw.githubusercontent.com/shravan20/cardivo/main/api?name=Piyush%20Raj&description=B.Tech%20CSE%20Student%20%7C%20Web%20Dev%20%26%20AI%2FML%20Enthusiast&avatar=https://avatars.githubusercontent.com/u/143005110?v=4&github=p-raj2702&linkedin=piyush-raj27&pattern=leaf&color=0f172a,1e293b" alt="Piyush Raj's Cardivo Banner"/>
+  </a>
+</p>
 
-  <a href="https://linkedin.com/in/piyush-raj27" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-piyush--raj27-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/p-raj2702" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-p--raj2702-black?logo=github&style=for-the-badge" />
-  </a>
+<div align="center">
+
+  <p>
+    <a href="https://linkedin.com/in/piyush-raj27" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-piyush--raj27-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/p-raj2702" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-p--raj2702-black?logo=github&style=for-the-badge" alt="GitHub Badge"/>
+    </a>
+  </p>
+
 </div>
 <h1 align="center">Hello 👋, I'm Piyush Raj</h1>
 

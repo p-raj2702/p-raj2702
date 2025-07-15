@@ -81,3 +81,78 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
 **Let’s innovate together** 🔥
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p-raj2702&custom_title=Piyush%20Raj's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area=true&title_color=FFD700" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=p-raj2702&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📌 Featured Projects (Placeholders for Now)
+
+<p align="center">🚧 No public repos yet, but exciting AI + impact-based projects are in the works!</p>
+
+<!-- When you push real projects, update the links below -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/p-raj2702/neurotrack-pro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=p-raj2702&repo=neurotrack-pro&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/p-raj2702/nyaysetu-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=p-raj2702&repo=nyaysetu-ai&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎵 Spotify Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+---
+
+## 🤣 Programming Meme of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Joke" />
+</p>
+
+---
+
+## 🕹️ Wanna Play a Game?
+
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" alt="Dino Game" />
+</p>
+
+---
+
+## 🧠 AI Tools I Use Often
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai,vercel,github,python,js" />
+  <br/>
+  ChatGPT, Gemini, LangChain, LlamaIndex, OpenCV, Streamlit, HuggingFace & more!
+</p>

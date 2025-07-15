@@ -2,10 +2,9 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/piyush-raj27">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Piyush%20Raj&description=B.Tech%20CSE%20Student%20%7C%20Web%20Dev%20%26%20AI%2FML%20Enthusiast%20%7C%20Building%20for%20the%20Future%20of%20Tech&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220603135%3Fs%3D400%26u%3Daba5ce7198a3e790f778dba34db42916c317b8f6%26v%3D4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=piyush-raj27&github=p-raj2702" alt="Piyush Raj's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Piyush%20Raj&description=B.Tech%20CSE%20Student%20%7C%20Web%20Dev%20%26%20AI%2FML%20Enthusiast%20%7C%20Building%20for%20the%20Future%20of%20Tech&avatar=https://github.com/p-raj2702.png&linkedin=piyush-raj27&github=p-raj2702" alt="Piyush Raj's Card" />
   </a>
 </div>
-
 <h1 align="center">Hello 👋, I'm Piyush Raj</h1>
 
 <p align="center">

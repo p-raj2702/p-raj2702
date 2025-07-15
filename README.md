@@ -156,3 +156,78 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
   <br/>
   ChatGPT, Gemini, LangChain, LlamaIndex, OpenCV, Streamlit, HuggingFace & more!
 </p>
+
+---
+
+## 🧠 AI/ML Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikit-learn,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flask,django,mongodb,firebase" />
+  <br/>
+  LangChain • LlamaIndex • Streamlit • HuggingFace • Gemini • Ollama • Whisper
+</p>
+
+---
+
+## 💡 Upcoming SaaS Projects
+
+### ⚖️ NyaySetu AI – Legal Help for Every Indian
+
+> An AI-powered justice bridge for underserved communities in India. Understand user issues, suggest IPC sections, and connect with support.
+
+### 🧠 NeuroTrack Pro – Mental State Detection
+
+> An AI system to detect stress, focus, and productivity using mouse movements and typing behavior. Built with a full GUI dashboard, PDF logging, and weekly insights.
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/piyushraj" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>LinkedIn</th>
+      <th>GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:piyushraj2702@gmail.com">
+          piyushraj3315@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/piyush-raj27" target="_blank">
+          linkedin.com/in/piyush-raj27
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/p-raj2702" target="_blank">
+          github.com/p-raj2702
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h3 align="center">
+  Made with ❤️ by Piyush Raj • Let’s build something extraordinary together.
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">

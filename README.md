@@ -1,8 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://linkedin.com/in/piyush-raj27">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Piyush%20Raj&description=B.Tech%20CSE%20Student%20%7C%20Web%20Dev%20%26%20AI%2FML%20Enthusiast%20%7C%20Building%20for%20the%20Future%20of%20Tech&avatar=https://github.com/p-raj2702.png&linkedin=piyush-raj27&github=p-raj2702" alt="Piyush Raj's Card" />
+  <img src="https://github.com/p-raj2702.png" width="140" style="border-radius: 50%;" />
+  
+  <h1>Piyush Raj</h1>
+  <p><strong>B.Tech CSE Student | Web Dev & AI/ML Enthusiast | Building for the Future of Tech</strong></p>
+
+  <a href="https://linkedin.com/in/piyush-raj27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-piyush--raj27-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/p-raj2702" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-p--raj2702-black?logo=github&style=for-the-badge" />
   </a>
 </div>
 <h1 align="center">Hello 👋, I'm Piyush Raj</h1>

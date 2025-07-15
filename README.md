@@ -128,7 +128,6 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
 ## 🎧 Currently Listening
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31okav3tdqv7p5k44onomy73gyhm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31okav3tdqv7p5k44onomy73gyhm)
-
 ## 🤣 Programming Meme of the Day
 
 <p align="center">

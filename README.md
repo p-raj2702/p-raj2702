@@ -127,7 +127,7 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
 
 ## 🎧 Spotify Now Playing
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31okav3tdqv7p5k44onomy73gyhm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31okav3tdqv7p5k44onomy73gyhm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31okav3tdqv7p5k44onomy73gyhm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://open.spotify.com/user/31okav3tdqv7p5k44onomy73gyhm)
 
 ## 🤣 Programming Meme of the Day
 

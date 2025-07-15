@@ -33,10 +33,9 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate B.Tech CSE student with a strong interest in Artificial Intelligence, Machine Learning, and Social Impact Tech.  
-💡 I love building things that matter — from legal tech like **NyaySetu AI** to safety tools like **NeuroTrack Pro**.  
-🎯 Currently exploring full-stack development, Python, and cloud computing to turn impactful ideas into reality.  
-💬 Ask me about AI + Hackathons + Life as a student-engineer.
+🎓 I am a Computer Science undergraduate with a strong foundation in software development, data structures, and AI technologies.  
+💡 My interests lie at the intersection of machine learning, intelligent systems, and impactful problem-solving through technology.  
+🛠️ I’m currently working on AI-powered applications in the domains of mental health, legal assistance, and real-time analytics, while continuously upskilling in cloud infrastructure and scalable system design.
 
 ---
 

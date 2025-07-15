@@ -9,11 +9,11 @@
 <h1 align="center">Hello 👋, I'm Piyush Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student+%7C+AI%2FML+Explorer;Hackathon+Lover+%7C+Driven+by+Purpose;Learning+Full-Stack%2C+Python%2C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;AI%2FML+%2B+Full-Stack+Development;Exploring+AI+Applications+with+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Developer • Learner • Dreamer • Builder 🚀
+  Developer • Learner • Builder • Explorer 🚀
 </p>
 
 ---
@@ -76,8 +76,8 @@
 
 ## 💬 Let's Collaborate
 
-I'm always open to discussions around AI, hackathons, student innovation, or just sharing ideas.  
-**Let’s innovate together** 🔥
+I'm always open to discussions around AI, full-stack development, or student innovation.  
+**Let’s build something impactful together** 🔥
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
@@ -99,52 +99,9 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
 
 ---
 
-## 📌 Featured Projects (Placeholders for Now)
+## 📌 Featured Projects
 
-<p align="center">🚧 No public repos yet, but exciting AI + impact-based projects are in the works!</p>
-
-<!-- When you push real projects, update the links below -->
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/p-raj2702/neurotrack-pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=p-raj2702&repo=neurotrack-pro&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/p-raj2702/nyaysetu-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=p-raj2702&repo=nyaysetu-ai&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
-## 🤣 Programming Meme of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Joke" />
-</p>
-
----
-
-## 🕹️ Wanna Play a Game?
-
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" alt="Dino Game" />
-</p>
+<p align="center">🚧 No public repositories yet, but exciting AI-based projects are on the way!</p>
 
 ---
 
@@ -167,18 +124,6 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
   <br/>
   LangChain • LlamaIndex • Streamlit • HuggingFace • Gemini • Ollama • Whisper
 </p>
-
----
-
-## 💡 Upcoming SaaS Projects
-
-### ⚖️ NyaySetu AI – Legal Help for Every Indian
-
-> An AI-powered justice bridge for underserved communities in India. Understand user issues, suggest IPC sections, and connect with support.
-
-### 🧠 NeuroTrack Pro – Mental State Detection
-
-> An AI system to detect stress, focus, and productivity using mouse movements and typing behavior. Built with a full GUI dashboard, PDF logging, and weekly insights.
 
 ---
 
@@ -226,7 +171,7 @@ I'm always open to discussions around AI, hackathons, student innovation, or jus
 ---
 
 <h3 align="center">
-  Made with ❤️ by Piyush Raj • Let’s build something extraordinary together.
+  Made with ❤️ by Piyush Raj • Let’s connect and build something amazing.
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
